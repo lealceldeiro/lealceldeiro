@@ -7,8 +7,6 @@
 - ⚡ [Chess player](https://www.chess.com/member/celdeiro) for fun.
 - 😄 Pronouns: He/His.
 
-#### 💹 Some stats
-
 ![stats](https://github-readme-stats.vercel.app/api?username=lealceldeiro&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&)
 
 <!--
