@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning lot of new stuff and taking some notes [here](https://github.com/lealceldeiro/gems)
+- 🌱 I’m currently learning a lot of new stuff and taking some notes [here](https://github.com/lealceldeiro/gems)
 - 🔭 I’m currently working on a very cool product.
 - 💬 Ask me about Java, SpringBoot, PostgreSQL, Maven, Hibernate, JUnit.
 - 📫 How to reach me: helloasiel@pm.me
