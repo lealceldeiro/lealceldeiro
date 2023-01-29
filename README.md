@@ -7,7 +7,7 @@
 - ⚡ [Chess player](https://www.chess.com/member/celdeiro) for fun.
 - 😄 Pronouns: He/His.
 
-![stats](https://github-readme-stats.vercel.app/api?username=lealceldeiro&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&)
+![stats](https://github-readme-stats.vercel.app/api?username=lealceldeiro&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&count_private=true)
 
 <!--
 **lealceldeiro/lealceldeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
