@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning a lot of new stuff and taking some notes [here](https://github.com/lealceldeiro/gems)
+- 🌱 I’m currently learning a lot of new stuff and taking some notes [here](https://github.com/lealceldeiro/gems#content).
 - 🔭 I’m currently working on a very cool product.
 - 💬 Ask me about Java, SpringBoot, PostgreSQL, Maven, Hibernate, JUnit.
 - 📫 How to reach me: helloasiel@pm.me
+- ⚡ [Chess player](https://www.chess.com/member/celdeiro) for fun.
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: [Chess player](https://www.chess.com/member/celdeiro) for fun.
 
 #### 💹 Some stats
 
