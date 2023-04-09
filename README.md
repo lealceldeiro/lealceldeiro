@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 Endless learner. Some of my notes [here](https://github.com/lealceldeiro/gems#content).
-- 🔭 Currently working on this very cool product: [Notimo](https://www.notimo.io/)
-- 💬 Ask me about Java, SQL, SpringBoot, JUnit, Mockito, Hibernate, Maven, Git, TDD, OOP, Design Patterns, REST, BDD.
-- 📫 How to reach me: [helloasiel@pm.me](mailto:helloasiel@pm.me) | [LinkedIn](https://www.linkedin.com/in/lealceldeiro/) | [Twitter](https://twitter.com/lealceldeiro) | [StackOverflow](https://stackoverflow.com/users/5640649/lealceldeiro) | [Facebook](https://www.facebook.com/lealceldeiro) | [Instagram](https://www.instagram.com/lealceldeiro/) | [Codidact](https://software.codidact.com/users/53229).
-- ⚡ [Chess player](https://www.chess.com/member/celdeiro) for fun.
+- 🌱 Endless learner... some of my notes [here](https://github.com/lealceldeiro/gems#content)
+- 🔭 Currently working on a very cool product called [Notimo](https://www.notimo.io/)
+- 💬 Ask me about Java, SQL, SpringBoot, JUnit, Mockito, Hibernate, Maven, Git, TDD, OOP, Design Patterns, REST, BDD
+- 📫 How to reach me: [helloasiel@pm.me](mailto:helloasiel@pm.me) | [LinkedIn](https://www.linkedin.com/in/lealceldeiro/) | [Twitter](https://twitter.com/lealceldeiro) | [StackOverflow](https://stackoverflow.com/users/5640649/lealceldeiro) | [Facebook](https://www.facebook.com/lealceldeiro) | [Instagram](https://www.instagram.com/lealceldeiro/) | [Codidact](https://software.codidact.com/users/53229)
+- ⚡ [Chess player](https://www.chess.com/member/celdeiro) for fun
 
 [![General Stats](https://github-readme-stats.vercel.app/api?username=lealceldeiro&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=darcula#gh-dark-mode-only)](https://github.com/lealceldeiro/lealceldeiro#hi-there-#gh-dark-mode-only)
 [![General Stats](https://github-readme-stats.vercel.app/api?username=lealceldeiro&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=vue#gh-dark-mode-only)](https://github.com/lealceldeiro/lealceldeiro#hi-there-#gh-light-mode-only)
