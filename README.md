@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Asiel
 
 - 🌱 Endless learner... some of my notes [here](https://github.com/lealceldeiro/gems#content)
 - 🔭 Currently working on a very cool product called [Notimo](https://www.notimo.io/)
