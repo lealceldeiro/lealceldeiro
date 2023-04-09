@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning a lot of new stuff and taking some notes [here](https://github.com/lealceldeiro/gems#content).
-- 🔭 I’m currently working on a very cool product.
+- 🌱 Endless learner. Some of my notes [here](https://github.com/lealceldeiro/gems#content).
+- 🔭 Currently working on this very cool product: [Notimo](https://www.notimo.io/)
 - 💬 Ask me about Java, SQL, SpringBoot, JUnit, Mockito, Hibernate, Maven, Git, TDD, OOP, Design Patterns, REST, BDD.
 - 📫 How to reach me: [helloasiel@pm.me](mailto:helloasiel@pm.me) | [LinkedIn](https://www.linkedin.com/in/lealceldeiro/) | [Twitter](https://twitter.com/lealceldeiro) | [StackOverflow](https://stackoverflow.com/users/5640649/lealceldeiro) | [Facebook](https://www.facebook.com/lealceldeiro) | [Instagram](https://www.instagram.com/lealceldeiro/) | [Codidact](https://software.codidact.com/users/53229).
 - ⚡ [Chess player](https://www.chess.com/member/celdeiro) for fun.
