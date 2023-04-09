@@ -8,7 +8,9 @@
 - 😄 Pronouns: He/His.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=lealceldeiro&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&count_private=true)
+
 ![streak stats](https://streak-stats.demolab.com/?user=lealceldeiro&theme=dark)
+
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lealceldeiro&theme=blue-green)
 
 <!--
