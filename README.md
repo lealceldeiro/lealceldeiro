@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Asiel
 
-- 🌱 Learning the [art of writing](https://lealceldeiro.com/articles.html); reading and taking [notes](https://github.com/lealceldeiro/gems#content)<!-- - 🔭 Currently working on a very cool product called [Notimo](https://www.notimo.io/) -->
+- 🌱 Learning the [art of writing](https://lealceldeiro.com/articles.html); reading and taking [notes](https://github.com/lealceldeiro/gems#books)<!-- - 🔭 Currently working on a very cool product called [Notimo](https://www.notimo.io/) -->
 - 💬 Ask me about Java, SQL, SpringBoot, JUnit, Mockito, Hibernate, Maven, Git, TDD, OOP, Design Patterns, REST, BDD
 - 📫 How to reach
   me: [asiel@lealceldeiro.com](mailto:asiel@lealceldeiro.com) | [LinkedIn](https://www.linkedin.com/in/lealceldeiro/) | [Twitter](https://twitter.com/lealceldeiro) | [StackOverflow](https://stackoverflow.com/users/5640649/lealceldeiro) | [Codidact](https://software.codidact.com/users/53229)
