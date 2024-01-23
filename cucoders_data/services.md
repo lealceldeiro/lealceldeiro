@@ -1,6 +1,6 @@
 ## 💻 Desarrollo de software
 - Desarrollo de APIs
-- Desarollo backend
+- Desarrollo backend
 
 ## 🔧 Personalización de software
 - Personalización de aplicaciones existentes
